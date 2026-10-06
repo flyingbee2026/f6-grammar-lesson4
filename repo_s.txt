@@ -1,0 +1,85 @@
+P: St. Joseph's Anglo-Chinese School
+P: F.6 English Language
+P: Grammar & Writing – Lesson 3: Discussing Solutions
+P: PART A: PROOFREADING (6 SENTENCES)
+P: Proofread the following sentences. Each sentence contains TWO errors. 
+TABLE 1x1
+  R0: ['1. In recent years, food delivery apps has became an indispensable part of daily life for busy office workers. \\n 2. It is undeniable that early childhood education play a pivotal role in shape children’s characters. \\n 3. To begin with, cultural exchange programme offer students golden opportunity to broaden their horizon. \\n 4. From the perspective of parents, school counselling services allow it to understand their children better, which in turn strengthen family relationships. \\n 5. School libraries serve as a powerful mean of encourage students to read, which enables them to become lifelong learners. \\n 6. Admittedly, e-books are more convenience; nevertheless, printed books remain irreplaceable, as reading on paper help readers to concentrate better.']
+P: 
+P: 
+P: PART B: UPGRADING VOCABULARY
+TABLE 7x3
+  R0: ['#', 'Basic', 'Upgraded']
+  R1: ['1', 'Many teenagers do not sleep enough during the examination period. \\n ', ' \\n ']
+  R2: ['2', 'Canteens can stop throwing food away by serving smaller portions. \\n ', ' \\n ']
+  R3: ['3', 'Saying bad things to people online can destroy a teenager’s confidence. \\n ', ' \\n ']
+  R4: ['4', 'Many young people feel worried in silence.', ' \\n ']
+  R5: ['5', 'Teenagers who read fewer books rarely pick that up again. \\n ', ' \\n ']
+  R6: ['6', 'Old people usually feel lonely after they retire.', ' \\n ']
+P: PART C: UPGRADING SENTENCE
+P: ✗ The government can …	✗ Schools can …	✗ Parents can …
+P: 
+TABLE 3x2
+  R0: ['Pattern 1            There is an urgent need for [doer] to [base verb phrase].', 'Pattern 1            There is an urgent need for [doer] to [base verb phrase].']
+  R1: ['Basic:', 'The government can build more sports facilities.']
+  R2: ['Upgraded:', 'There is an urgent need for the government to invest in free, accessible sports facilities in every district.']
+P: 
+TABLE 3x2
+  R0: ['Pattern 2            To [goal], [doer] should make it a priority to [base verb phrase].', 'Pattern 2            To [goal], [doer] should make it a priority to [base verb phrase].']
+  R1: ['Basic:', 'Schools can organise more sports activities and sports days.']
+  R2: ['Upgraded:', 'To boost students’ physical fitness, schools should make it a priority to add a daily exercise break to the timetable.']
+P: 
+TABLE 3x2
+  R0: ['Pattern 3            [Doer], in collaboration with [second party], should [verb phrase].', 'Pattern 3            [Doer], in collaboration with [second party], should [verb phrase].']
+  R1: ['Basic:', 'Parents can exercise with their children at weekends.']
+  R2: ['Upgraded:', 'Parents, in collaboration with schools, should encourage their children to adopt a more active lifestyle.']
+P: 
+P: PART D: PRACTICE SETS
+P: Set 1. Topic: Teenage Sleep Deprivation
+TABLE 2x2
+  R0: ['Basic', 'The government can tell teenagers about the importance of sleep. \\n ']
+  R1: ['Use Pattern 1', ' \\n  \\n ']
+P: 
+Set 2. Topic: Food Waste on Campus
+TABLE 2x2
+  R0: ['Basic', 'Schools can ask students not to waste food in the canteen. \\n ']
+  R1: ['Use Pattern 2', ' \\n  \\n ']
+P: 
+Set 3. Topic: Cyberbullying
+TABLE 2x2
+  R0: ['Basic', 'Parents can talk to their children about cyberbullying. \\n ']
+  R1: ['Use Pattern 3', ' \\n  \\n ']
+P: 
+P: Set 4. Topic: Youth Mental Health (more challenging)
+TABLE 2x2
+  R0: ['Basic', 'The government can spend more money on mental health services in schools because young people need these services. \\n ']
+  R1: ['Use Pattern 1', ' \\n  \\n ']
+P: 
+Set 5. Topic: Declining Reading Habits (more challenging)
+TABLE 2x2
+  R0: ['Basic \\n ', 'Schools can keep the library open after school as students need a quiet place to read.']
+  R1: ['Use Pattern 2', ' \\n  \\n ']
+P: 
+Set 6. Topic: Care for the Elderly (more challenging)
+TABLE 2x2
+  R0: ['Simple sentences', 'Teenagers can visit old people who live alone and community centres can arrange these visits. \\n ']
+  R1: ['Use Pattern 3', ' \\n  \\n ']
+P: 
+
+P: 
+P: PART E: WRITING PRACTICE
+TABLE 1x1
+  R0: ['A recent survey has found that young people in Hong Kong take far less exercise than they should, and the government is now inviting ideas on how to improve their physical well-being. Write a letter to the editor of the Hong Kong Young Post, suggesting ONE way in which our city can improve the physical well-being of its young people.']
+P: Task requirements:
+P: Make ONE suggestion (100 words) about improving physical well-being, and open your paragraph with ONE of today’s three patterns as the topic sentence.
+P: 
+P: Follow the chain: [Topic sentence] → [Explain] → [Example / evidence] → [Round off].
+P: 
+P: Write your paragraph below:
+P: ____________________________________________________________________________________________
+P: ____________________________________________________________________________________________
+P: ____________________________________________________________________________________________
+P: ____________________________________________________________________________________________
+P: ____________________________________________________________________________________________
+P: ____________________________________________________________________________________________
+P: ____________________________________________________________________________________________

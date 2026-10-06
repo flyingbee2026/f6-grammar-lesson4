@@ -1,0 +1,7 @@
+    ('h', 'Common errors to watch when marking'),
+    ('b', 'Lesson 3 pattern forms: \u201cTo improving \u2026\u201d \u2192 \u201cTo improve \u2026\u201d (base verb after '
+          'the goal); \u201cin collaboration of\u201d \u2192 \u201cin collaboration with\u201d; \u201cencourage staff '
+          'taking\u201d \u2192 \u201cencourage staff to take\u201d.'),
+    ('b', 'Two ways in one example (\u201cAccording to a 2021 study, imagine a clerk \u2026\u201d) \u2192 keep ONE way per '
+          'example; an example never tied back to the argument loses the round-off mark; \u201cstudies show \u2026\u201d with '
+          'no source, or a figure that cannot be sourced \u2192 rewrite as Way 2 or Way 3.'),
